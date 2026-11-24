@@ -5,4 +5,4 @@ not spend its own traffic on them.
 
 | File | What it is | Address |
 |---|---|---|
-| `pinfold-demo.mp4` | The 69-second recording of a live demo run (1280 x 1102, H.264, 1.8 MB) | <https://hkarp.github.io/pinfold-media/pinfold-demo.mp4> |
+| `pinfold-demo.mp4` | The 53-second recording of a live demo run (1280 x 1102, H.264, 1.3 MB) | <https://hkarp.github.io/pinfold-media/pinfold-demo.mp4> |
